@@ -1,9 +1,12 @@
 ## :wave: Hello! My name is Cyrus
 
-<div align="middle">
-  <img src="https://raw.githubusercontent.com/cfung89/github-stats/master/generated/overview.svg#gh-dark-mode-only" width=325 />
-  <img src="https://raw.githubusercontent.com/cfung89/github-stats/master/generated/languages.svg#gh-dark-mode-only" width=325 />
+<div align="center">
+
+| <img src="https://github-readme-stats.vercel.app/api?username=cfung89&show_icons=true&locale=en&theme=radical&rank_icon=github" alt="Image 1" height="200"> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cfung89&layout=pie&theme=radical" alt="Image 2" height="400"> |
+|---------------------------------------------------|---------------------------------------------------|
+
 </div>
+
 
 ---
 
